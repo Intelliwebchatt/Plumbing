@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Plumber in Prattville AL | Caldwell & Sons Plumbing & Drain</title>
+    <meta name="description" content="Trusted plumber in Prattville & Millbrook, AL since 1981. Emergency service, water heater repair, drain cleaning. Licensed & insured. Call (334) 365-6107.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script> </head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <a href="index.html" class="logo">Caldwell & Sons</a>
+            <nav class="main-nav">
+                <ul class="nav-links">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="header-cta">
+                <a href="tel:334-365-6107" class="phone-link">Emergency Service: (334) 365-6107</a>
+                <a href="contact.html" class="btn btn-primary">Schedule Service</a>
+            </div>
+            <button class="nav-toggle" aria-label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h1 class="hero-title">Trusted Plumbing Solutions by Your Neighbors Since 1981 </h1>
+                    <p class="hero-subtitle">State-certified plumbing professionals delivering quality workmanship, fair pricing, and lasting solutions for all your residential and commercial plumbing needs. </p>
+                    <div class="hero-buttons">
+                        <a href="contact.html" class="btn btn-primary">Schedule Service</a>
+                        <a href="tel:334-365-6107" class="btn btn-secondary">Emergency Service</a>
+                    </div>
+                    <div class="trust-indicators">
+                        <span>Family-Owned Since 1981 </span> | <span>Licensed & Insured </span> | <span>Serving Prattville & Millbrook </span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="intro-section">
+            <div class="container">
+                <p>For over 40 years, Caldwell & Sons Plumbing & Drain has been the go-to family-owned plumber for Prattville, Millbrook, and the surrounding Alabama communities.  We've built our reputation on honesty and quality, treating every job with the care we'd give our own homes.  Whether you have an emergency leak, a clogged drain, or need a new water heater, our licensed and insured team is here to provide reliable service you can count on. </p>
+            </div>
+        </section>
+
+        <section class="services-overview">
+            <div class="container">
+                <h2 class="section-title">Your Complete Plumbing & Drain Solution </h2>
+                <div class="services-grid">
+                    <div class="service-card">
+                        <i class="fas fa-water service-icon"></i>
+                        <h3>Water Heater Services</h3>
+                        <p>Keep your hot water flowing reliably.  From efficient tankless installations to traditional water heater replacements and maintenance, we ensure you always have the hot water you need. </p>
+                        <a href="services.html#water-heaters" class="learn-more">Learn More &rarr;</a>
+                    </div>
+                    <div class="service-card">
+                        <i class="fas fa-cogs service-icon"></i>
+                        <h3>Drain & Sewer Services</h3>
+                        <p>Clogged drains or sewer line issues?  Our experts use advanced techniques, including camera inspections, for effective drain cleaning and durable sewer line repairs and replacements. </p>
+                        <a href="services.html#drain-sewer" class="learn-more">Learn More &rarr;</a>
+                    </div>
+                    <div class="service-card">
+                        <i class="fas fa-wrench service-icon"></i>
+                        <h3>Plumbing Repairs</h3>
+                        <p>From leaky faucets and running toilets to fixture installations, no repair is too small or too large.  We provide prompt, reliable repairs to keep your plumbing system in top condition. </p>
+                        <a href="services.html#repairs" class="learn-more">Learn More &rarr;</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="testimonial-section">
+            <div class="container">
+                <h2 class="section-title">What Our Customers Say </h2>
+                <div class="testimonial-quote">
+                    <blockquote>
+                        <p>"Caldwell & Sons responded quickly to our emergency call. The technician was professional, explained the problem clearly, and fixed our burst pipe efficiently. Highly recommend their honest service!" </p>
+                        <cite>– Sarah P., Prattville </cite>
+                    </blockquote>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <h3>Ready for Professional Plumbing Service? </h3>
+                <p>Don't let plumbing problems disrupt your day. Contact Caldwell & Sons for reliable, expert service you can trust. </p>
+                <a href="tel:334-365-6107" class="footer-phone">Call Us Today: (334) 365-6107</a>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span id="year"></span> Caldwell & Sons Plumbing & Drain. All Rights Reserved.</p>
+                <p>Serving Prattville, Millbrook, & Deatsville, AL</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
