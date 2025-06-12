@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plumbing Services in Prattville & Millbrook | Caldwell & Sons</title>
+    <meta name="description" content="Complete plumbing services in Prattville & Millbrook. We offer water heater repair, drain cleaning, sewer repair, and weekend emergency service.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <header class="main-header">
+        <div class="container">
+            <a href="index.html" class="logo">Caldwell & Sons</a>
+            <nav class="main-nav">
+                <ul class="nav-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html" class="active">Services</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+            <div class="header-cta">
+                <a href="tel:334-365-6107" class="phone-link">Emergency Service: (334) 365-6107</a>
+                <a href="contact.html" class="btn btn-primary">Schedule Service</a>
+            </div>
+            <button class="nav-toggle" aria-label="toggle navigation">
+                <span class="hamburger"></span>
+            </button>
+        </div>
+    </header>
+
+    <main class="page-main">
+        <section class="page-hero">
+            <div class="container">
+                <h1>Our Plumbing Services</h1>
+            </div>
+        </section>
+
+        <section class="content-section">
+            <div class="container content-container">
+                <p>Your home's plumbing system works tirelessly behind the scenes. When a problem arises, from a minor leak to a major backup, you need prompt, professional service.  At Caldwell & Sons, we offer a comprehensive range of residential and commercial plumbing services designed to address any issue with lasting, high-quality solutions. </p>
+
+                <div id="water-heaters" class="service-item">
+                    <h3>Water Heater Repair & Installation</h3>
+                    <p>Whether you need a reliable repair for your existing water heater or want to upgrade to an energy-efficient tankless model, we can help.  Our certified technicians service all major brands and can help you choose the perfect system for your home's needs and budget. </p>
+                </div>
+
+                <div id="drain-sewer" class="service-item">
+                    <h3>Drain Cleaning & Unclogging</h3>
+                    <p>Stubborn clogs are no match for our advanced drain cleaning techniques.  We use professional equipment, including high-pressure water jetting and camera inspections, to thoroughly clear blockages from sinks, showers, and main sewer lines, restoring proper flow and preventing future issues. </p>
+                </div>
+
+                <div id="repairs" class="service-item">
+                    <h3>Sewer Line Repair & Replacement</h3>
+                    <p>We are experts in diagnosing and resolving complex sewer line problems, from root intrusion to pipe corrosion.  Leveraging modern, minimally invasive techniques, we can perform durable repairs or complete line replacements while protecting your property. </p>
+                </div>
+
+                <div class="service-item">
+                    <h3>General Plumbing Repairs</h3>
+                    <p>No repair is too small for our team. We handle everything from leaky faucet and toilet repairs to fixture installations and pipe replacements, always using top-quality parts to ensure our work stands the test of time. </p>
+                </div>
+                
+                <div class="service-item">
+                    <h3>Gas Line Installation</h3>
+                    <p>As an approved ALAGASCO partner, we are certified to handle gas line installations and repairs.  This unique partnership allows us to help you access rebates and incentives for qualifying appliance upgrades, saving you money. </p>
+                </div>
+                
+                <div class="service-item">
+                    <h3>Commercial Plumbing</h3>
+                    <p>We provide comprehensive plumbing services for businesses, offices, and commercial properties throughout our service area.  We understand the need to minimize downtime and work efficiently to handle the unique demands of commercial plumbing systems. </p>
+                </div>
+
+                <p class="emergency-note">Our team is available for <strong>weekend emergency service</strong> when unexpected issues arise. </p>
+
+                <p class="final-cta">Don't see your issue listed? Call us at <strong>(334) 365-6107</strong> and we'll be happy to help.</p>
+
+            </div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-content">
+                <h3>Ready for Professional Plumbing Service? </h3>
+                <p>Don't let plumbing problems disrupt your day. Contact Caldwell & Sons for reliable, expert service you can trust. </p>
+                <a href="tel:334-365-6107" class="footer-phone">Call Us Today: (334) 365-6107</a>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; <span id="year"></span> Caldwell & Sons Plumbing & Drain. All Rights Reserved.</p>
+                <p>Serving Prattville, Millbrook, & Deatsville, AL</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>
